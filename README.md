@@ -170,9 +170,14 @@ You can create a `seed.js` script to pre-load dummy users, companies, and jobs f
 
 Store images in `client/public/assets/` or `server/uploads/`.
 
-![Landing Page](assets/landing-page.png)
+![Landing Page](img/1.png)
 
-![Job Details Page](assets/job-details.png)
+![Job Details Page](img//2.png)
+
+![Landing Page](img/3.png)
+
+![Landing Page](img/4.png)
+
 
 > Replace these placeholders with your actual project screenshots.
 
